@@ -1,0 +1,27 @@
+#label{
+  display:block;
+  text-align:center;
+  font-size: 200px;
+  font-style: oblique;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+#btncontainer{
+  text-align: center;
+}
+
+.button{
+  padding: 10px 10px;
+  font-size: x-large;
+  color: white;
+  background-color: blueviolet;
+  border-radius: 7px;
+  cursor: pointer;
+  transition: background-color 1s;
+}
+
+.button:hover{
+  background-color: violet;
+}
+
